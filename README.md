@@ -98,11 +98,3 @@ Comece sua jornada de sucesso no mundo com seu PROJETO e encante seus clientes c
 ##### Para conhecer outros projetos não esqueça Acesse!
 
 <a href = https://venda-rapida-dnells.web.app/ target="_blank"> Venda Rápida Dnells</a>
-
-<hr>
-
-## AUTOR NOOB-SAIBOT-227410 📒
-
-<div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden;">
-  <img src="https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/79d2c073-9f0d-470e-bfa5-0b0642c1ef9a.png" alt="Sua Foto" style="width: 100%; height: 100%; object-fit: cover;">
-</div>
